@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\Clock1\Clock1\obj\Debug\net5.0\Clock1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Clock1\Clock1\obj\Debug\net5.0\Clock1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Clock1\Clock1\obj\Debug\net5.0\Clock1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Clock1\Clock1\obj\Debug\net5.0\Clock1.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Clock1\Clock1\obj\Debug\net5.0\Clock1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Clock1\Clock1\bin\Debug\net5.0\Clock1.exe
+C:\Users\ADMIN\source\repos\Clock1\Clock1\bin\Debug\net5.0\Clock1.deps.json
+C:\Users\ADMIN\source\repos\Clock1\Clock1\bin\Debug\net5.0\Clock1.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Clock1\Clock1\bin\Debug\net5.0\Clock1.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Clock1\Clock1\bin\Debug\net5.0\Clock1.dll
+C:\Users\ADMIN\source\repos\Clock1\Clock1\bin\Debug\net5.0\ref\Clock1.dll
+C:\Users\ADMIN\source\repos\Clock1\Clock1\bin\Debug\net5.0\Clock1.pdb
+C:\Users\ADMIN\source\repos\Clock1\Clock1\obj\Debug\net5.0\Clock1.dll
+C:\Users\ADMIN\source\repos\Clock1\Clock1\obj\Debug\net5.0\ref\Clock1.dll
+C:\Users\ADMIN\source\repos\Clock1\Clock1\obj\Debug\net5.0\Clock1.pdb
+C:\Users\ADMIN\source\repos\Clock1\Clock1\obj\Debug\net5.0\Clock1.genruntimeconfig.cache

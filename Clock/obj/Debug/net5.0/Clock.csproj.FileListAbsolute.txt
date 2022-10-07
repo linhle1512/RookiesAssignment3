@@ -1,5 +1,0 @@
-C:\Users\ADMIN\source\repos\Clock\Clock\obj\Debug\net5.0\Clock.csproj.AssemblyReference.cache
-C:\Users\ADMIN\source\repos\Clock\Clock\obj\Debug\net5.0\Clock.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ADMIN\source\repos\Clock\Clock\obj\Debug\net5.0\Clock.AssemblyInfoInputs.cache
-C:\Users\ADMIN\source\repos\Clock\Clock\obj\Debug\net5.0\Clock.AssemblyInfo.cs
-C:\Users\ADMIN\source\repos\Clock\Clock\obj\Debug\net5.0\Clock.csproj.CoreCompileInputs.cache
