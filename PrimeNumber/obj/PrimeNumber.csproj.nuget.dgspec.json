@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\RookiesAssignment3\\ClockAssignment\\ClockAssignment.csproj": {}
+    "C:\\Users\\ADMIN\\source\\repos\\PrimeNumber\\PrimeNumber\\PrimeNumber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\RookiesAssignment3\\ClockAssignment\\ClockAssignment.csproj": {
+    "C:\\Users\\ADMIN\\source\\repos\\PrimeNumber\\PrimeNumber\\PrimeNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\RookiesAssignment3\\ClockAssignment\\ClockAssignment.csproj",
-        "projectName": "ClockAssignment",
-        "projectPath": "C:\\Users\\ADMIN\\RookiesAssignment3\\ClockAssignment\\ClockAssignment.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\PrimeNumber\\PrimeNumber\\PrimeNumber.csproj",
+        "projectName": "PrimeNumber",
+        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\PrimeNumber\\PrimeNumber\\PrimeNumber.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\RookiesAssignment3\\ClockAssignment\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\source\\repos\\PrimeNumber\\PrimeNumber\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

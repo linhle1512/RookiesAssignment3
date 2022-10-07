@@ -22,5 +22,5 @@ namespace ClockAssign
                 time.ClockTime = DateTime.Now;
             }
         }
-    }   
+    }
 }
